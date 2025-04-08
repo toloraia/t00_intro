@@ -2,7 +2,7 @@
 #include <stdbool.h>
 #include <refinedc.h>
 
-//@rc::import my_lemmas from refinedc.project.code
+//@rc::import my_lemmas from refinedc.project.t00_intro
 
 /**
    Welcome to the tutorial of RefinedC!
